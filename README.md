@@ -6,3 +6,7 @@
 
 # people.Asianometry
 - [AI’s Hardware Problem](https://youtu.be/5tmGKTNW8DQ)
+- [Where is the AI Boom Going?](https://youtu.be/FEJaYqquDDk)
+
+# people.Dr Waku
+- [Why Nvidia's AI monopoly is coming to an end](https://youtu.be/48AdJgTYSFQ)
